@@ -4,6 +4,10 @@
 
 #### The code has only been tested to work on the Arduino IDE, not VS Code
 
+Requirement: 
+- DHT module
+- LiquidCrystal module
+
 Components used:
 - Arduino Uno R3
 - DHT11 Module
